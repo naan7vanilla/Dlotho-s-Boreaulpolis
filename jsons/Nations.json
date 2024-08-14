@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Boreaul",
+		"leaderName": "Echro",
+		"adjective": ["Celapese"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "There is no rule here",
+		"startIntroPart2": "Enjoy the Ancap paradise!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You interrupted my business!",
+		"attacked": "Great! I will cut off your import, laugh in mercantilism.",
+		"defeated": "I've chased the meaningless of money.",
+		"introduction": "This is Ancap city, we have no rule, let's trade",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Wanna some champagne?",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["That would not benefit our business."],
+		"neutralYes": ["Good for both of us."],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": ["Ah I am not listening, I am busy with my billards..."],
+		"hateNo": ["I dont listen to poor people"],
+		"hateYes": ["Money can solve everything."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "That is enough damage for my business.",
+		"tradeRequest": "Just for my business.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [140,25,255],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniques": ["Cannot build [Settler] units","[+3 Gold, +2 Food] from every [specialist]","[+1 Gold] per [3] population [in all cities]","Starts with [Freedom] adopted","Starts with [Commerce] adopted","Starts with [Currency]","[7] units cost no maintenance"],
+		"cities": ["Boreaulpolis","Boreaulpolis suburb","Boreaupolis port","Boreaupolis outpost"]
 	}
 ]
